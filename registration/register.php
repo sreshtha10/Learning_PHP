@@ -4,7 +4,7 @@ require_once 'includes/header.php';
 <div>
 
     <h1>Register</h1>
-    <p>Already have an account? <a href="register.php">Login !</a></p>
+    <p>Already have an account? <a href="login.php">Login !</a></p>
 
     <form action="includes/register-inc.php" method="post">
         <input type="text" name="username" placeholder="Username">
