@@ -3,7 +3,7 @@
 
 $dbhost = "localhost";
 $dbUser = "root";
-$dbPass = "sreshtha";
+$dbPass = "root";
 $dbName = "php";
 
 // connection to database.
